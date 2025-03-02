@@ -87,7 +87,7 @@ streamlit run scripts/dashboard.py
 
 ## Demo 
 - Used huggingface + gradio to test out the look
-![hf demo](EDA-on-H1B-data demo.WEBP)
+![demo](EDA-on-H1B-data-demo.webp)
 
 ## Contributing
 Feel free to fork the repository, create a feature branch, and submit a pull request.
