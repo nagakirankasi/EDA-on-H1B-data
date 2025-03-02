@@ -1,0 +1,4 @@
+Python: Data analysis & visualization (pandas, matplotlib, seaborn, plotly).
+AWS Services: S3, Glue, Athena, Lambda, ECS/Fargate.
+Visualization: Streamlit or Flask-based interactive dashboard.
+SQL: Queries for AWS Athena.

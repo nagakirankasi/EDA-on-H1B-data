@@ -84,10 +84,10 @@ streamlit run scripts/dashboard.py
 3. **Athena Queries** - Run SQL queries on S3 data.
 4. **Lambda & API Gateway** - Deploy the dashboard as a serverless app.
 
+
 ## Demo 
 - Used huggingface + gradio to test out the look
 ![hf demo](EDA-on-H1B-data demo.WEBP)
-
 
 ## Contributing
 Feel free to fork the repository, create a feature branch, and submit a pull request.
